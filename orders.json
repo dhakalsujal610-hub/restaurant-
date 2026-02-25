@@ -1,0 +1,56 @@
+[
+  {
+    "customer": {
+      "name": "sujal Dakala ",
+      "phone": "8020934",
+      "address": "Not specified",
+      "email": "dhakalSujal610@gmail.com"
+    },
+    "items": [
+      {
+        "id": 2,
+        "name": "Momo Platter",
+        "price": 550,
+        "description": "Steamed dumplings with spicy tomato chutney.",
+        "category": "lunch",
+        "tags": [
+          "Best Seller",
+          "Spicy"
+        ],
+        "image": "https://images.unsplash.com/photo-1563245372-f21724e3856d?w=600&auto=format&fit=crop&q=60",
+        "badge": "Hot",
+        "quantity": 2
+      }
+    ],
+    "total": 1100,
+    "id": 1,
+    "date": "2026-02-24T12:07:07.269Z"
+  },
+  {
+    "customer": {
+      "name": "sujal dhakal",
+      "phone": "98089867",
+      "address": "Not specified",
+      "email": "sujaldhakal411@gmail.com"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Traditional Breakfast",
+        "price": 450,
+        "description": "Sel roti, achar, boiled eggs and masala tea.",
+        "category": "breakfast",
+        "tags": [
+          "Popular",
+          "Vegetarian"
+        ],
+        "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=600&auto=format&fit=crop&q=60",
+        "badge": "Morning Special",
+        "quantity": 1
+      }
+    ],
+    "total": 450,
+    "id": 2,
+    "date": "2026-02-24T12:22:13.221Z"
+  }
+]
